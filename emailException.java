@@ -4,5 +4,5 @@ public class emailException extends Exception {
         super(mensaje);
     }
 
-    
 }
+

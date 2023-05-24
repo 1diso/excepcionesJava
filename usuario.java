@@ -18,7 +18,7 @@ public class usuario {
 
    public static void main(String[] args) throws emailException
     {
-    usuario user = new usuario(1, "correo@hotmail.com", "1234asd");
+    usuario user = new usuario(1, "correo_hotmail.com", "1234asd");
 
    }
     
